@@ -15,7 +15,7 @@
 ````text
 내 컴퓨터가 아래 2건의 npm/PyPI 공급망 공격에 영향을 받았는지 점검해줘.
 
-## 1. axios (npm) — 2025-04-XX
+## 1. axios (npm) — 2026-04-XX
 - 악성 버전: axios@1.14.1, axios@0.30.4
 - 악성 의존성: plain-crypto-js (정상 axios에는 존재하지 않음)
 - 악성 페이로드:
